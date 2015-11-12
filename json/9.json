@@ -1,0 +1,30 @@
+{"quizz" : 
+    [
+        {"text":"Which of those units have been added with the Legacy of the Void Expansion set ?","answers":
+            [
+                {"text" : "The mighty Liberator", "isTrue" : "true"},
+                {"text" : "The OP Colossus", "isTrue" : "false"},
+                {"text" : "The Dark Archon", "isTrue" : "false"},
+                {"text" : "The powerful Lurker", "isTrue" : "true"}
+            ]
+        },
+        {"text":"Which is the best race ?","answers":
+            [
+                {"text" : "The disgusting Zerg", "isTrue" : "false"},
+                {"text" : "The fanatic Protoss", "isTrue" : "false"},
+                {"text" : "The ingenious Terran", "isTrue" : "true"}
+            ]
+        }
+        {"text":"When was Legacy of the Void released ?","answers":
+            [
+                {"text" : "The 3rd of November 2015", "isTrue" : "false"},
+                {"text" : "The 10th of November 2015", "isTrue" : "true"},
+                {"text" : "Soon(tm)", "isTrue" : "false"}
+            ]
+        }  
+    ],
+    "name" : "Starcraft2",
+    "screenName" : "Starcraft 2", 
+    "theme":"game", 
+    "time" : 45
+}
