@@ -14,7 +14,7 @@
                 {"text" : "The fanatic Protoss", "isTrue" : "false"},
                 {"text" : "The ingenious Terran", "isTrue" : "true"}
             ]
-        }
+        },
         {"text":"When was Legacy of the Void released ?","answers":
             [
                 {"text" : "The 3rd of November 2015", "isTrue" : "false"},
