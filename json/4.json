@@ -1,0 +1,48 @@
+{"quizz" : 
+	[
+		{"text":"The Lille Citadel is known:","answers":
+			[
+				{"text" : "The Royal Citadel", "isTrue" : "false"},
+				{"text" : "The LouisXIV Citadel", "isTrue" : "false"},
+				{"text" : "The queen of citadels", "isTrue" : "true"},
+				{"text" : "The first citadels", "isTrue" : "false"}
+			]
+		},
+		{"text":"In 1858, Lille absorbs two of these four cities, which ones?","answers":
+			[
+				{"text" : "Esquermes", "isTrue" : "false"},
+				{"text" : "Hellemmes", "isTrue" : "false"},
+				{"text" : "Lomme", "isTrue" : "false"},
+				{"text" : "Wazemmes", "isTrue" : "true"}
+			]
+		},
+		{"text":"Lille becomes French city:","answers":
+			[
+				{"text" : "1448", "isTrue" : "false"},
+				{"text" : "1592", "isTrue" : "false"},
+				{"text" : "1632", "isTrue" : "false"},
+				{"text" : "1667", "isTrue" : "true"}
+			]
+		},
+		{"text":"President of the Republic born in Lille I am:","answers":
+			[
+				{"text" : "Albert Lebrun", "isTrue" : "false"},
+				{"text" : "Philippe Pétain", "isTrue" : "false"},
+				{"text" : "Vincent Auriol", "isTrue" : "false"},
+				{"text" : "Charles de Gaulle", "isTrue" : "true"}
+			]
+		},
+		{"text":"The old parish center of Lille was:","answers":
+			[
+				{"text" : "St Maurice", "isTrue" : "false"},
+				{"text" : "Notre-Dame", "isTrue" : "false"},
+				{"text" : "St Joseph", "isTrue" : "false"},
+				{"text" : "St Etienne", "isTrue" : "true"}
+			]
+		}		
+	],
+	"name" : "DESCRIPTION",
+	"screenName" : "What do you know about the history of Lille?", 
+	"theme":"history", 
+	"time" : 100
+}

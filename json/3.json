@@ -1,0 +1,37 @@
+{"quizz" : 
+	[
+		{"text":"How many there are highways to go to Lille?","answers":
+			[
+				{"text" : "3", "isTrue" : "false"},
+				{"text" : "6", "isTrue" : "true"}
+			]
+		},
+		{"text":"How many there are bus lines?","answers":
+			[
+				{"text" : "70", "isTrue" : "true"},
+				{"text" : "68", "isTrue" : "false"}			]
+		},
+		{"text":"How many there subway lines?","answers":
+			[
+				{"text" : "3", "isTrue" : "false"},
+				{"text" : "2", "isTrue" : "true"}
+			]
+		},
+		{"text":"Are there any trams?","answers":
+			[
+				{"text" : "yep", "isTrue" : "true"},
+				{"text" : "nop", "isTrue" : "false"}
+			]
+		},
+		{"text":"How many there taxis?","answers":
+			[
+				{"text" : "more than 150", "isTrue" : "false"},
+				{"text" : "less than 150", "isTrue" : "true"}
+			]
+		}		
+	],
+	"name" : "LilleG",
+	"screenName" : "What do you know about Lille?", 
+	"theme":"geography", 
+	"time" : 15
+}

@@ -1,0 +1,44 @@
+{"quizz" : 
+	[
+		{"text":"In what year was Nintendo founded?","answers":
+			[
+				{"text" : "1898", "isTrue" : "true"},
+				{"text" : "1985", "isTrue" : "false"},
+				{"text" : "1967", "isTrue" : "false"},
+				{"text" : "1977", "isTrue" : "false"}
+			]
+		},
+		{"text":"True or False: Nintendo and Sony once worked together.","answers":
+			[
+				{"text" : "True", "isTrue" : "true"},
+				{"text" : "False", "isTrue" : "false"}
+			]
+		},
+		{"text":"What was the code name for the Nintendo 64?","answers":
+			[
+				{"text" : "Project N", "isTrue" : "false"},
+				{"text" : "Project Dolphin", "isTrue" : "false"},
+				{"text" : "Project Reality", "isTrue" : "true"},
+				{"text" : "Project Ultra", "isTrue" : "false"}
+			]
+		},
+		{"text":"Who is the creator of characters such as Mario, Donkey Kong, and Link?","answers":
+			[
+				{"text" : "Ken Lobb", "isTrue" : "false"},
+				{"text" : "Shigeru Miyamoto", "isTrue" : "true"},
+				{"text" : "Shigesato Itoh", "isTrue" : "false"},
+				{"text" : "Tim Stamper", "isTrue" : "false"}
+			]
+		},
+		{"text":"There are three Pokemon Stadium games for the Nintendo 64.","answers":
+			[
+				{"text" : "True", "isTrue" : "false"},
+				{"text" : "False", "isTrue" : "true"}
+			]
+		}			
+	],
+	"name" : "Nintendo",
+	"screenName" : "What do you know about Nintendo?", 
+	"theme":"game", 
+	"time" : 55
+}

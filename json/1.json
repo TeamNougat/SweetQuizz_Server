@@ -1,0 +1,46 @@
+{"quizz" : 
+	[
+		{"text":"What is the original name of The Legend of Zelda?","answers":
+			[
+				{"text" : "Zelda no Densetsu: The Hyrule Fantasy", "isTrue" : "true"},
+				{"text" : "Zelda no Densetsu: Kamigami no Tri-Force", "isTrue" : "false"},
+				{"text" : "Zelda no Densetsu: Yume o Miru Shima", "isTrue" : "false"}
+			]
+		},
+		{"text":"In Minish Cap, how is called the main enemy of the hero?","answers":
+			[
+				{"text" : "Ganondorf", "isTrue" : "false"},
+				{"text" : "Vaati", "isTrue" : "true"},
+				{"text" : "Agahnim", "isTrue" : "false"}
+			]
+		},
+		{"text":"In Majora's Mask, how to appoint the two fairy twins?","answers":
+			[
+				{"text" : "Navi et Tael", "isTrue" : "false"},
+				{"text" : "Taya et Tael", "isTrue" : "true"},
+				{"text" : "Navi et Taya", "isTrue" : "false"}
+			]
+		},
+		{"text":"How many bosses are there in OOT?","answers":
+			[
+				{"text" : "9", "isTrue" : "false"},
+				{"text" : "10", "isTrue" : "false"},
+				{"text" : "7", "isTrue" : "false"},
+				{"text" : "8", "isTrue" : "true"}
+
+			]
+		},
+		{"text":"In How can one use of weapons at the same time?","answers":
+			[
+				{"text" : "0", "isTrue" : "false"},
+				{"text" : "1", "isTrue" : "true"},
+				{"text" : "2", "isTrue" : "false"},
+				{"text" : "3", "isTrue" : "false"}
+			]
+		}
+	],
+	"name" : "Zelda",
+	"screenName" : "Do you really know the license The legend of Zelda?", 
+	"theme":"game", 
+	"time" : 65
+}

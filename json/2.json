@@ -1,0 +1,48 @@
+{"quizz" : 
+	[
+		{"text":"Who helps Harry, Ron and Hermione break into Hogwarts?","answers":
+			[
+				{"text" : "Seamus Finnigan", "isTrue" : "false"},
+				{"text" : "Madam Romerta", "isTrue" : "false"},
+				{"text" : "Hagrid", "isTrue" : "false"},
+				{"text" : "Aberforth Dumbledore", "isTrue" : "true"}
+			]
+		},
+		{"text":"What does Harry want to be after he graduates from Hogwarts?","answers":
+			[
+				{"text" : "A professor at Hogwarts", "isTrue" : "false"},
+				{"text" : "A member of the Accidental Magic Reversal Squad", "isTrue" : "false"},
+				{"text" : "A dark wizard catcher", "isTrue" : "true"},
+				{"text" : "An Unspeakable", "isTrue" : "false"}
+			]
+		},
+		{"text":"What did Hagrid give Harry the first time they met ?","answers":
+			[
+				{"text" : "A flute", "isTrue" : "false"},
+				{"text" : "An ice cream sundae", "isTrue" : "false"},
+				{"text" : "A birthday cake", "isTrue" : "true"},
+				{"text" : "An owl", "isTrue" : "false"}
+			]
+		},
+		{"text":"How many kids are in the Weasley family?","answers":
+			[
+				{"text" : "5", "isTrue" : "false"},
+				{"text" : "7", "isTrue" : "true"},
+				{"text" : "3", "isTrue" : "false"},
+				{"text" : "4", "isTrue" : "false"}
+			]
+		},
+		{"text":"What teams played in the Quidditch World Cup that Harry attended?","answers":
+			[
+				{"text" : "Romania and Norway", "isTrue" : "false"},
+				{"text" : "Bulgaria and Ireland", "isTrue" : "true"},
+				{"text" : "England and Ireland", "isTrue" : "false"},
+				{"text" : "France and Spain", "isTrue" : "false"}
+			]
+		}		
+	],
+	"name" : "HarryP",
+	"screenName" : "Harry Potter", 
+	"theme":"movies", 
+	"time" : 60
+}

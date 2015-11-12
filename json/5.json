@@ -1,0 +1,47 @@
+{"quizz" : 
+	[
+		{"text":" When was Jack Nicholson born?","answers":
+			[
+				{"text" : "April 22, 1932", "isTrue" : "false"},
+				{"text" : "April 22, 1937", "isTrue" : "true"},
+				{"text" : "April 14, 1937", "isTrue" : "false"},
+				{"text" : "April 11, 1945", "isTrue" : "false"}
+			]
+		},
+		{"text":"What basketball team is Jack a huge fan of?","answers":
+			[
+				{"text" : "Celtics", "isTrue" : "false"},
+				{"text" : "Knicks", "isTrue" : "false"},
+				{"text" : "Bulls", "isTrue" : "false"},
+				{"text" : "Lakers", "isTrue" : "true"}
+			]
+		},
+		{"text":"Jack played what character in 'Batman' (1989)?","answers":
+			[
+				{"text" : "Joker", "isTrue" : "true"},
+				{"text" : "Riddler", "isTrue" : "false"},
+				{"text" : "Batman", "isTrue" : "false"},
+				{"text" : "Penguin", "isTrue" : "false"}
+			]
+		},
+		{"text":"Jack won his ___ Academy Award in 'As Good As It Gets' (1997) ?","answers":
+			[
+				{"text" : "1st", "isTrue" : "false"},
+				{"text" : "2nd", "isTrue" : "false"},
+				{"text" : "3rd", "isTrue" : "true"},
+				{"text" : "4th", "isTrue" : "false"}
+			]
+		},
+		{"text":"Jack's character in 'Terms of Endearment' (1983) was _________ ?","answers":
+			[
+				{"text" : "Garrett Breedlove", "isTrue" : "true"},
+				{"text" : "Garrett Barlove", "isTrue" : "false"},
+				{"text" : "Garrett Stevens", "isTrue" : "false"}
+			]
+		}		
+	],
+	"name" : "Nicholson",
+	"screenName" : "Jack Nicholson is the best actor ever.", 
+	"theme":"movies", 
+	"time" : 120
+}

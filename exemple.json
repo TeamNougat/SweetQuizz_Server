@@ -1,0 +1,22 @@
+{"quizz" : 
+	[
+		{"text":"QUESTION","answers":
+			[
+				{"text" : "REPONSE", "isTrue" : "false"},
+				{"text" : "REPONSE", "isTrue" : "false"},
+				{"text" : "REPONSE", "isTrue" : "false"}
+			]
+		},
+		{"text":"QUESTION","answers":
+			[
+				{"text" : "REPONSE", "isTrue" : "false"},
+				{"text" : "REPONSE", "isTrue" : "false"},
+				{"text" : "REPONSE", "isTrue" : "false"}
+			]
+		}		
+	],
+	"name" : "NOM",
+	"screenName" : "Description", 
+	"theme":"THEME", 
+	"time" : INTEGER
+}

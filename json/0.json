@@ -1,0 +1,56 @@
+{"quizz" : 
+	[
+		{"text":"In which country can you find Cape Branco (Ponta do Seixas)?","answers":
+			[
+				{"text" : "Cuba", "isTrue" : "false"},
+				{"text" : "Brazil", "isTrue" : "true"},
+				{"text" : "Portugal", "isTrue" : "false"},
+				{"text" : "Argentina", "isTrue" : "false"}
+			]
+		},
+		{"text":"Saint Helier is the capital of which country or territory?","answers":
+			[
+				{"text" : "Svalbard", "isTrue" : "false"},
+				{"text" : "Jersey", "isTrue" : "true"},
+				{"text" : "British Virgin Islands", "isTrue" : "false"},
+				{"text" : "Niue", "isTrue" : "false"}
+			]
+		},
+		{"text":"Apia is the capital of which country?","answers":
+			[
+				{"text" : "Trinidad and Tobago", "isTrue" : "false"},
+				{"text" : "Samoa", "isTrue" : "true"},
+				{"text" : "Maldives", "isTrue" : "false"},
+				{"text" : "Dominica", "isTrue" : "false"}
+			]
+		},
+		{"text":"Lome is the capital of which country?","answers":
+			[
+				{"text" : "Togo", "isTrue" : "true"},
+				{"text" : "Kiribati", "isTrue" : "false"},
+				{"text" : "East Timor", "isTrue" : "false"},
+				{"text" : "Netherlands Antilles", "isTrue" : "false"}
+			]
+		},
+		{"text":"Willemstad is the capital of which country?","answers":
+			[
+				{"text" : "Equatorial Guinea", "isTrue" : "false"},
+				{"text" : "Netherlands Antilles", "isTrue" : "true"},
+				{"text" : "Comoros", "isTrue" : "false"},
+				{"text" : "Federated States of Micronesia", "isTrue" : "false"}
+			]
+		},
+		{"text":"Iceland is located in which continent?","answers":
+			[
+				{"text" : "Asia", "isTrue" : "false"},
+				{"text" : "Africa", "isTrue" : "false"},
+				{"text" : "North America", "isTrue" : "false"},
+				{"text" : "Europe", "isTrue" : "true"}
+			]
+		}		
+	],
+	"name" : "testGeo",
+	"screenName" : "What do you know about Geography?", 
+	"theme":"geography", 
+	"time" : 63
+}
