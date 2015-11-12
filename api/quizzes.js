@@ -7,7 +7,7 @@ var nbElement = JSON.parse(fs.readFileSync("json/nbElement.json", "UTF-8"));
 console.log(nbElement.nb);
 var myJson = [];
 
-for(var i = 0; i<nbElement.nb-1;++i){
+for(var i = 0; i<nbElement.nb;++i){
 	myJson.push(JSON.parse(fs.readFileSync("json/"+i+".json", "UTF-8")));
 }
 /*
@@ -30,7 +30,7 @@ router.get('/desc/name:id', function(resquest, reponse, next) {
 	for(var i = 0; i < size; i++){
 		if(":"+myJson[i].name == resquest.params.id){
 			reponse.send(
-				{name : myJson[i].name, desc : myJson[i].desc}
+				{name : myJson[i].name, screenName : myJson[i].screenName}
 			);
 		}
 	}
@@ -41,7 +41,7 @@ router.get('/desc', function(request, response, next) {
 	var size = myJson.length;
 	var myarray = [];
 	for(var i = 0; i < size; i++){
-		myarray.push({name : myJson[i].name, desc : myJson[i].desc});
+		myarray.push({name : myJson[i].name, screenName : myJson[i].screenName});
 	}
 	response.send(
 		myarray
@@ -67,7 +67,7 @@ router.get('/theme/name:id', function(resquest, reponse, next){
 	var myQuizz = []
 	for(var i = 0; i < size; i++){
 		if(":"+myJson[i].theme == resquest.params.id){
-			myQuizz.push({name : myJson[i].name, desc : myJson[i].desc});
+			myQuizz.push({name : myJson[i].name, screenName : myJson[i].screenName});
 		}
 	}
 	reponse.send(

@@ -41,7 +41,7 @@
 			]
 		}		
 	],
-	"name" : "DESCRIPTION",
+	"name" : "LilleHistory",
 	"screenName" : "What do you know about the history of Lille?", 
 	"theme":"history", 
 	"time" : 100
