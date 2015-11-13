@@ -49,7 +49,7 @@
 			]
 		}		
 	],
-	"name" : "testGeo",
+	"name" : "Geo",
 	"screenName" : "What do you know about Geography?", 
 	"theme":"geography", 
 	"time" : 63
