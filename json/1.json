@@ -14,7 +14,7 @@
 				{"text" : "Agahnim", "isTrue" : "false"}
 			]
 		},
-		{"text":"In Majora's Mask, how to appoint the two fairy twins?","answers":
+		{"text":"In Majora's Mask, what is the name the two fairy twins?","answers":
 			[
 				{"text" : "Navi et Tael", "isTrue" : "false"},
 				{"text" : "Taya et Tael", "isTrue" : "true"},
@@ -30,7 +30,7 @@
 
 			]
 		},
-		{"text":"In How can one use of weapons at the same time?","answers":
+		{"text":"How many weapons can be used at the same time in OOT?","answers":
 			[
 				{"text" : "0", "isTrue" : "false"},
 				{"text" : "1", "isTrue" : "true"},
